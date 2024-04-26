@@ -1,4 +1,4 @@
-package com.coding404.myweb.controller;
+package com.aws.elastic.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

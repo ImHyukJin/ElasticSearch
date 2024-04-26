@@ -1,4 +1,4 @@
-package com.coding404.myweb;
+package com.aws.elastic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
