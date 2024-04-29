@@ -1,4 +1,4 @@
-package com.coding404.myweb;
+package com.aws.elastic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
