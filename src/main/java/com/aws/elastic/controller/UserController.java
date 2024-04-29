@@ -13,4 +13,7 @@ public class UserController {
 	@Autowired
 	private BCryptPasswordEncoder bc;
 	
+	public String mainPage() {
+		return "";
+	}
 }
