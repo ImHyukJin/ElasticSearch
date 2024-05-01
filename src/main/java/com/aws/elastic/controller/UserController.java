@@ -16,4 +16,5 @@ public class UserController {
 	public String mainPage() {
 		return "user/userMain";
 	}
+	
 }
