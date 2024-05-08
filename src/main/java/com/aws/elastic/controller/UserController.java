@@ -14,7 +14,7 @@ public class UserController {
 	private BCryptPasswordEncoder bc;
 	
 	public String mainPage() {
-		return "user/userMai";
+		return "user/userMain";
 	}
 	
 }
