@@ -17,4 +17,8 @@ public class UserController {
 		return "user/userMain";
 	}
 	
+	public String login() {
+		return "user/login";
+	}
+	
 }
