@@ -20,5 +20,8 @@ public class UserController {
 	public String login() {
 		return "user/login";
 	}
+	public String regist() {
+		return "user/regist";
+	}
 	
 }
