@@ -10,6 +10,6 @@ public class ElasticController {
 //	private 
 	
 	public String mainPage() {
-		return "";
+		return "Main";
 	}
 }
