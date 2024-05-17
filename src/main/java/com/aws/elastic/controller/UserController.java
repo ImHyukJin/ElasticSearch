@@ -23,5 +23,5 @@ public class UserController {
 	public String regist() {
 		return "user/regist";
 	}
-	
+	 
 }
