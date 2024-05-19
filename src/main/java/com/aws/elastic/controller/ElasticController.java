@@ -7,7 +7,7 @@ import org.springframework.stereotype.Controller;
 public class ElasticController {
 
 //	@Autowired
-//	private 
+//	private  
 	
 	public String mainPage() {
 		return "Main";
