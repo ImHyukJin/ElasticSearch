@@ -26,5 +26,8 @@ public class UserController {
 	public String logout() {
 		return "user/logout";
 	}
+	public String age() {
+		return "user/age";
+	}
 	 
 }
