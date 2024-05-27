@@ -8,7 +8,7 @@ public class ElasticController {
 
 //	@Autowired
 //	private  
-	
+	    
 	public String mainPage() {
 		return "Main";
 	}
